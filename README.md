@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Rachmat Ainun Hidayat](https://github.com/RainDay4)
+## Hi there 👋, I'm [Rachmat Ainun Hidayat, S.T.](https://github.com/RainDay4)
 **Electrical Engineer | PLC & IoT Developer | Automation Enthusiast**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/r-ainun-dyt)  
