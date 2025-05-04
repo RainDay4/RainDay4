@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm [Rachmat Ainun Hidayat, S.T.](https://github.com/RainDay4)
 **Electrical Engineer | PLC & IoT Developer | Automation Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/r-ainun-dyt) [![Email](https://img.shields.io/badge/Mail%20-white?style=flat&logo=gmail)](mailto:rachmatainun.h@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/r-ainun-dyt) [![Email](https://img.shields.io/badge/Mail%20-white?style=flat&logo=gmail)](mailto:rachmatainun.h@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram)](https://t.me/Noen_Dyt)
 
 ## About me
 😁 an Electrical Engineer passionate about automation technologies. I have experience and interests in IoT (Internet of Things), PLC programming, and instrumentation control systems. I enjoy building smart IoT solutions and learning industrial control methods for future projects.
