@@ -1,8 +1,10 @@
 ## Hi there 👋, I'm [Rachmat Ainun Hidayat, S.T.](https://github.com/RainDay4)
-**Electrical Engineer | PLC & IoT Developer | Automation Enthusiast**  
+**Electrical Engineer | PLC & IoT Developer | Automation Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/r-ainun-dyt)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:rachmatainun.h@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/r-ainun-dyt) [![Email](https://img.shields.io/badge/Mail%20-white?style=flat&logo=gmail)](mailto:rachmatainun.h@gmail.com)  
+
+## About me
+😁 an Electrical Engineer passionate about automation technologies. I have experience and interests in IoT (Internet of Things), PLC programming, and instrumentation control systems. I enjoy building smart IoT solutions and learning industrial control methods for future projects.
 
 ---
 
@@ -72,24 +74,10 @@
 ---
 
 ## 📫 **Let's Connect!**  
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- **Email**: [youremail@gmail.com](mailto:youremail@gmail.com)  
+- **LinkedIn**: [Rachmat Ainun Hidayat](https://linkedin.com/in/r-ainun-dyt)
+- **Email**: [rachmatainun.h@gmail.com](mailto:rachmatainun.h@gmail.com)  
 
 ---
 
 ⭐ **Star this repo if you find my work interesting!**  
 🚀 *Open to collaborations in automation, IoT, and industrial engineering!*  
-<!--
-**RainDay4/RainDay4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
