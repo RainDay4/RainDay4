@@ -13,7 +13,7 @@
   AKPRIND Indonesia University (UAI) | 2022–2025  
   - Focus: Industrial Automation, Control Systems, IoT.  
 
-- **Diploma III in Electrical Engineering**  
+- **Associate degree of instrumentation and Electrical Engineer**  
   Gadjah Mada University (UGM) | 2016–2019  
   - Organizations: Electrical Engineering Student Association (Project Lead).  
 
