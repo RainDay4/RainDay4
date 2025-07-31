@@ -15,7 +15,11 @@
 
 - **Associate degree of instrumentation and Electrical Engineer**  
   Gadjah Mada University (UGM) | 2016–2019  
-  - Organizations: Electrical Engineering Student Association (Project Lead).  
+  - Organizations: Electrical Engineering Student Association (Project Lead).
+  - Associate's degree, Teknologi InstrumentasiAssociate's degree, Teknologi Instrumentasi
+2016 - 2021
+IPK: 2,89
+Learn to create, optimize and develop hardware related to computer-based instrumentation and create electronic systems and their applications in the fields of instrumentation, control and communications at the industrial stage
 
 ---
 
